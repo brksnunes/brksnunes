@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, eu sou o Rodrigo Nunes</h1>
-<h3 align="center">Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes, atualmente estudante da [Trybe](https://www.betrybe.com/) #vqv 🚀 e apaixonado por tecnologia 🌟.</h3>
+<h3 align="center">Formado em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes, atualmente estudante da 
+<a href="https://www.betrybe.com/">Trybe</a> #vqv 🚀 e apaixonado por tecnologia 🌟.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brksnunes&label=Profile%20views&color=0e75b6&style=flat" alt="brksnunes" /> </p>
 
