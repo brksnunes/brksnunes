@@ -13,7 +13,6 @@
 <h3 align="left">Conecte-se:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodrigo-nunes-da-silva-07808611b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-nunes-da-silva-07808611b" height="30" width="40" /></a>
-<a href="https://instagram.com/brksnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brksnunes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/brksnunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="brksnunes" height="30" width="40" /></a>
 </p>
 
