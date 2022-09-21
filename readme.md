@@ -6,8 +6,6 @@
 
 - 🌱 Atualmente estou estudando **Desenvolvimento Web na Trybe.**
 
-- 📫 Para entrar em contato comigo: **brksnunes@protonmail.com**
-
 - ⚡ Fun fact: **No meu tempo livre, eu gosto de imprimir coisas aleatórias na minha impressora 3D e aprender mais sobre eletrônica e hardware em geral.**
 
 <h3 align="left">Conecte-se:</h3>
